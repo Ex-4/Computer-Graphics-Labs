@@ -95,6 +95,9 @@ int main() {
     std::cout << "invA * A = " << glm::transpose(A * invA) << "\n" << std::endl;
     std::cout << "invB * B = " << glm::transpose(B * invB) << "\n" << std::endl;
 
-    // exercises
+    //* exercises
+  
+
+    
 }
 
